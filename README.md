@@ -31,7 +31,7 @@ print(b)
 
 ```
 ## Output:
-![norm1]()
+![norm1](https://github.com/vijay21500269/Norm-Matrix/blob/main/Screenshot%20(34).png)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
